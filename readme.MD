@@ -43,4 +43,7 @@ docker-compose up
 2. Você verá a lista de tarefas disponíveis. Use os botões para atualizar o status de uma tarefa, excluí-la ou adicionar uma nova tarefa.
 
 3. Aproveite o aplicativo para gerenciar suas tarefas!
-# app_tasks
+
+# Curso Formação Devops - Iago Ferreira 
+
+## Bruno Oliveira 
