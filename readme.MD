@@ -46,4 +46,4 @@ docker-compose up
 
 # Curso Formação Devops - Iago Ferreira 
 
-## Bruno Oliveira 
+## Bruno Oliveira - Devops JR
